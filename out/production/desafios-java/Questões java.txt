@@ -1,0 +1,20 @@
+1-Calculadora Simples
+Crie um programa Java que receba dois números do usuário e permita
+que ele escolha entre adição, subtração, multiplicação ou divisão.
+ Em seguida, exiba o resultado da operação escolhida.
+
+2-Verificar Palíndromo
+Escreva um programa Java que verifica se uma string é um palíndromo (ou seja, se pode ser lida da mesma forma de trás para frente). Por exemplo, "radar" é um palíndromo. Peça ao usuário para inserir uma string e, em seguida, exiba se ela é um palíndromo ou não.
+
+Questões de Dificuldade Média:
+
+3-Ordenação de Array
+Crie um programa Java que solicite ao usuário que insira um conjunto de números inteiros em um array. Em seguida, ordene esse array em ordem crescente ou decrescente, dependendo da escolha do usuário. Use um algoritmo de ordenação, como o Bubble Sort ou o Quick Sort, para implementar a ordenação.
+
+4-Contagem de Palavras em um Texto
+Escreva um programa Java que leia um texto inserido pelo usuário e conte o número de palavras no texto. Considere palavras como sequências de caracteres separadas por espaços. O programa deve relatar o número total de palavras no texto.
+
+Questão Difícil:
+
+5-Sistema de Gerenciamento de Biblioteca
+Crie um sistema de gerenciamento de biblioteca em Java. O sistema deve permitir que os usuários cadastrem livros com informações como título, autor e número de cópias disponíveis. Os usuários também devem ser capazes de verificar a disponibilidade de um livro, emprestar um livro e devolvê-lo. Além disso, implemente um mecanismo de rastreamento de datas de devolução para livros emprestados.
