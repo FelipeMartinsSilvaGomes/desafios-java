@@ -10,12 +10,19 @@ Escreva um programa Java que verifica se uma string é um palíndromo (ou seja, 
 Questões de Dificuldade Média:
 
 3-Ordenação de Array
-Crie um programa Java que solicite ao usuário que insira um conjunto de números inteiros em um array. Em seguida, ordene esse array em ordem crescente ou decrescente, dependendo da escolha do usuário. Use um algoritmo de ordenação, como o Bubble Sort ou o Quick Sort, para implementar a ordenação.
+Crie um programa Java que solicite ao usuário que insira um conjunto de números inteiros em um array.
+Em seguida, ordene esse array em ordem crescente ou decrescente, dependendo da escolha do usuário.
+Use um algoritmo de ordenação, como o Bubble Sort ou o Quick Sort, para implementar a ordenação.
 
 4-Contagem de Palavras em um Texto
-Escreva um programa Java que leia um texto inserido pelo usuário e conte o número de palavras no texto. Considere palavras como sequências de caracteres separadas por espaços. O programa deve relatar o número total de palavras no texto.
+Escreva um programa Java que leia um texto inserido pelo usuário e conte o número de palavras no texto.
+Considere palavras como sequências de caracteres separadas por espaços.
+O programa deve relatar o número total de palavras no texto.
 
 Questão Difícil:
 
 5-Sistema de Gerenciamento de Biblioteca
-Crie um sistema de gerenciamento de biblioteca em Java. O sistema deve permitir que os usuários cadastrem livros com informações como título, autor e número de cópias disponíveis. Os usuários também devem ser capazes de verificar a disponibilidade de um livro, emprestar um livro e devolvê-lo. Além disso, implemente um mecanismo de rastreamento de datas de devolução para livros emprestados.
+Crie um sistema de gerenciamento de biblioteca em Java.
+O sistema deve permitir que os usuários cadastrem livros com informações como título, autor e número de cópias disponíveis.
+Os usuários também devem ser capazes de verificar a disponibilidade de um livro, emprestar um livro e devolvê-lo.
+Além disso, implemente um mecanismo de rastreamento de datas de devolução para livros emprestados.
