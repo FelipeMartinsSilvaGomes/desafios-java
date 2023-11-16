@@ -2,14 +2,14 @@ package desafios.desafio_2;
 
 import java.util.Scanner;
 
-public class Palimdromo {
+public class Palindromo {
     public static void main(String[] args) {
 
         String palavra;
 
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("\n*********************************\nOlá, seja bem-vindo ao Palimdrômetro!!\n" +
+        System.out.println("\n*********************************\nOlá, seja bem-vindo ao Palindrômetro!!\n" +
                 "Aqui nós iremos verificar se a palavra que você digitou é ou não um Palíndromo..." +
                 "\n***palíndromo***\n" +
                 "-> adjetivo substantivo masculino\n" +
